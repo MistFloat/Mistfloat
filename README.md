@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm mistfloat
 
-<!--
-**MistFloat/Mistfloat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+一名热爱全栈开发与 AI Agent 工程的学生。
 
-Here are some ideas to get you started:
+## 📬 联系我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 **邮箱**：[lishoufu@example.com](mailto:lishoufu@example.com)
+- 🌐 **个人博客**：[blog.lishoufu.com](https://blog.lishoufu.com)
+
+## 🛠️ 技术栈
+
+- 前端：React / TypeScript / Electron
+- 后端：Rust / Node.js
+- AI：LLM Agent / MCP 协议
